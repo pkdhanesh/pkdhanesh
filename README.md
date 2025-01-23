@@ -1,6 +1,6 @@
 ## Hi, I am Dhanesh Palottukavil !👋
 
--🚀 IT professional with expertise in Python, Django, and AWS.
+- 🚀 IT professional with expertise in Python, Django, and AWS.
 💻 Skilled in full-stack development, databases (MySQL, PostgreSQL, MongoDB), and automation.
 🎓 Pursuing MSc in Data Analytics at Berlin School of Business and Innovation.
 📚 Learning machine learning and cloud technologies to build innovative solutions.
