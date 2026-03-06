@@ -15,35 +15,15 @@ I enjoy building data-driven solutions, developing backend systems, and explorin
 
 ---
 
+
 ## 🛠️ Skills & Technologies
 
-**Programming**  
-- Python  
-- SQL  
-
-**Backend Development**  
-- Django  
-- REST APIs  
-
-**Data Analytics**  
-- Pandas  
-- NumPy  
-
-**Machine Learning**  
-- Scikit-learn  
-
-**Data Visualization**  
-- Power BI  
-- Tableau  
-
-**Databases**  
-- PostgreSQL  
-- MySQL  
-
-**Cloud & Tools**  
-- AWS  
-- Git  
-- GitHub  
+- **Languages:** Python, SQL  
+- **Backend:** Django, REST APIs  
+- **Data & ML:** Pandas, NumPy, Scikit-learn  
+- **Visualization:** Power BI, Tableau  
+- **Databases:** PostgreSQL, MySQL  
+- **Cloud & Tools:** AWS, Git, GitHub
 
 ---
 
